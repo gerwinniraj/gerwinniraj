@@ -1,16 +1,73 @@
-## Hi there 👋
+###
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gerwin Niraj M
+=========================================================================================================================================
+Data Scientist | Data Analyst | ML Engineer | AI Engineer
+-----------------------------------
 
-<!--
-**gerwinniraj/gerwinniraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gerwinniraj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gerwinniraj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-Here are some ideas to get you started:
+<h3 align="left">🔥Profile Views:</h3>  
+<div align="center">
+  <img src="https://profile-counter.glitch.me/gerwinniraj_github/count.svg"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍  I'm based in Chennai, TamilNadu, India
+* 🖥️  You See my portfolio at [My Portfolio](https://gerwinniraj.github.io/portfolio/)
+* ✉️  You can contact me at [gerwinniraj03@gmail.com](mailto:gerwinniraj03@gmail.com)
+* 🤝  I'm open to collaborating on Interesting Projects
+* <p align="left"> <img src="https://komarev.com/ghpvc/?username=gerwinnirajlabel=Profile%20views&color=0e75b6&style=for-the-badge" alt="gerwinniraj" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gerwinniraj" alt="gerwinniraj" /></a> </p>
+<h3 align="left">🔥Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/gerwin-niraj-a78798247/" target="blank"><img align="center" src="https://static.licdn.com/sc/h/akt4ae504epesldzj74dzred8" alt="https://www.linkedin.com/in/gerwin-niraj-a78798247/" height="30" width="40" /></a>
+</p>
+<div class="tool-icons-container" style="display: flex; align-items: center;">
+  <h3 align="left">🔥Languages and Tools:</h3>
+  <!-- Add more languages and tools here -->
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" style="width: 80px; height: 80px; margin-right: 50px;"/>
+  </a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzhLPHU19WeWUyWdRqCJjhxaa9QlUXqPKhFkjtIB_f5w&s" alt="SQLite" style="width: 90px; height: 90px; margin-right: 10px;"/>
+  </a>
+  <a href="https://neo4j.com/" target="_blank" rel="noreferrer">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVf3_8CHFehTlr6LconfdoaQRSi1g6XwBjh3zMQtSwUg&s" alt="Neo4j" style="width: 90px; height: 90px; margin-right: 50px;"/>
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/695px-TensorFlowLogo.svg.png" alt="TensorFlow" style="width: 90px; height: 80px; margin-right: 50px;"/>
+  </a>
+  <a href="https://www.streamlit.io/" target="_blank" rel="noreferrer">
+    <img src="https://images.ctfassets.net/23aumh6u8s0i/2Qhstbnq6i34wLoPoAjWoq/9f66f58a22870df0d72a3cbaf77ce5b6/streamlit_hero.jpg" alt="Streamlit" style="width: 90px; height: 70px; margin-right: 50px;"/>
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" alt="AWS" style="width: 110px; height: 65px; margin-right: 50px;"/>
+  </a>
+    <a href="https://flask.palletsprojects.com/en/3.0.x/api/" target="_blank" rel="noreferrer">
+    <img src="https://qph.cf2.quoracdn.net/main-qimg-ad2e0a65df473c4af55ad8c9699bbfd8" alt="Flask" style="width: 110px; height: 65px; margin-right: 50px;"/>
+  </a>
+      <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDs9QclC0zX2p9aG-fdkfHoG_tYO-_3uYz5A&s" alt="Fastapi" style="width: 110px; height: 65px; margin-right: 50px;"/>
+    <a href="https://hub.docker.com/u/kkarthik31" target="_blank" rel="noreferrer">
+    <img src="https://oneclick-cloud.com/wp-content/uploads/2023/08/Bigstock_-139961875-Docker-Emblem.-A-Blue-Whale-With-Several-Containers.-e1574090673987-1.jpg" alt="Docker" style="width: 110px; height: 65px; margin-right: 50px;"/>
+  </a>
+</div>
+
+
+<h3 align="left">🔥My Stats:</h3>
+
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gerwinniraj" alt="gerwinniraj" /></p>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+###
